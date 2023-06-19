@@ -13,7 +13,7 @@ struct SplashView: View {
     
     var body: some View {
         VStack {
-            Text("¡Bienvenido!")
+            Text("¡Bienvenido! :)")
                 .font(.largeTitle)
                 .fontWeight(.bold)
                 .padding()
